@@ -37,13 +37,6 @@ https://rstudio.github.io/leaflet/
 - Use map bounds and mouse events to drive Shiny logic
 
 
-### d3heatmap creates interactive D3 heatmaps including support for row/column highlighting and zooming.
-
-```{r}
-library(d3heatmap)
-d3heatmap(mtcars, scale="column", colors="Blues")
-```
-
 ***
 
 https://github.com/rstudio/d3heatmap/
